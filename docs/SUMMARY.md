@@ -1,4 +1,6 @@
-‌# Summary​
+# Table of contents
+
+* [Introduction](README.md)
 
 ## About the project
 
@@ -49,3 +51,5 @@
 ## Resources
 
 * [Resources](resources/resources.md)
+* [Test page](test-page.md)
+
