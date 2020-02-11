@@ -51,5 +51,5 @@
 ## Resources
 
 * [Resources](resources/resources.md)
-* [Test page](test-page.md)
+* [Test page](resources/test-page.md)
 
